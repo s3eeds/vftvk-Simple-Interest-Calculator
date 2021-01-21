@@ -1,5 +1,19 @@
-body {background-color:black;font-family: Arial;color:white;}
-h1{color:gray;font-family:verdana;}
-div.maindiv{background-color:white;color:black;width:300px;margin:auto;padding:20px;border-radius:25px;margin: auto;border: 5px ;padding: 10px;}
+body {
+    background-color:black;
+    font-family: Arial;
+    color: white;
+}
+h1{
+    color:grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div.maindiv{
+    background-color:white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}}
 
 
